@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: iso-8859-15 -*-
-# Copyright 2017 Knock Mail.
-# Written by: * Alisson Moretto - 4w4k3
-# https://github.com/4w4k3/KnockMail
+# Copyright 2022 gitdi.
 # Licensed under the BSD-3-Clause
 import os
 import sys
