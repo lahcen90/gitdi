@@ -57,18 +57,23 @@ def single():
 def banner():
     os.system('clear')
     sys.stdout.write(WHITE + '''
-    By: @4w4k3
-    https://github.com/4w4k3
+    By: @lahcen90
+    https://github.com/lahcen90
     [-                                              -]''' + RED + '''
 
-                                                   
-     _|    _|                                _|        
-     _|  _|    _|_|_|      _|_|      _|_|_|  _|  _|    
-     _|_|      _|    _|  _|    _|  _|        _|_|      
-     _|  _|    _|    _|  _|    _|  _|        _|  _|    
-     _|    _|  _|    _|    _|_|      _|_|_|  _|    _|  
-                                               mail''' + END + '''
-                [ ]''' + RED + ' Knock Knock Mail ' + END + '''[ ]
+       | | | |           | | |      | | | | |      |  |  |         | | |             
+     |                     |            |          |        |        |
+     |                     |            |          |         |       |            
+     |                     |            |          |          |      |
+     |       | | |         |            |          |         |       |
+     |           |         |            |          |       |         |
+       | | | | |         | | |          |          |  |  |         | | |
+     
+     
+     mail''' + END + '''
+  
+     
+     [ ]''' + RED + ' Gitdi ' + END + '''[ ]
 				 	v1.0.1   
      [-                                              -]
      ''')
@@ -91,7 +96,7 @@ def menu():
             if ask.upper() == "E":
                 sys.exit(0) 
         except:
-            print("\nThank you for using Knock Mail.")
+            print("\nThank you for using Gitdi.")
             sys.exit(0)
 
 def main():
