@@ -8,4 +8,4 @@ WORKDIR /app
 
 RUN pip3 install -r /app/requirements.txt
 
-ENTRYPOINT ["/app/knockmail.py"]
+ENTRYPOINT ["/app/gitdi.py"]
