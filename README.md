@@ -10,7 +10,7 @@ git clone https://github.com/lahcen90/Gitdi.git
 ```
 
 ```
-cd KnockMail
+cd gitdi
 ```
 
 ```
@@ -22,17 +22,17 @@ sudo pip3 install -r requirements.txt
 
 For an interactive menu: 
 ```
-python3 knockmail.py
+python3 gitdi.py
 ```
 
 Validate single e-mail address:
 ```
-python3 knockmail.py --email example@example.com
+python3 gitdi.py --email example@example.com
 ```
 
 Validate emails stored in text file:
 ```
-python3 knockmail.py --file /path/to/inputfile.txt
+python3 gitdi.py --file /path/to/inputfile.txt
 ```
 
 
