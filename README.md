@@ -6,7 +6,7 @@ Copyright 2022 Gitdi
 ### Installation:
 
 ```
-git clone https://github.com/lahcen90/Gitdi.git
+git clone https://github.com/lahcen90/gitdi.git
 ```
 
 ```
