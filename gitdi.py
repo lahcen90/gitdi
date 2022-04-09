@@ -58,7 +58,7 @@ def banner():
     os.system('clear')
     sys.stdout.write(WHITE + '''
     By: @lahcen90
-    https://github.com/lahcen90
+    Donate Paypal: lahcen90neo@gmail.com
     [-                                              -]''' + RED + '''
 
        | | | |           | | |      | | | | |      |  |  |         | | |             
