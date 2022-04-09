@@ -61,6 +61,7 @@ def banner():
     Donate Paypal: lahcen90neo@gmail.com
     [-                                              -]''' + RED + '''
 
+
        | | | |           | | |      | | | | |      |  |  |         | | |             
      |                     |            |          |        |        |           
      |       | | |         |            |          |         |       |
