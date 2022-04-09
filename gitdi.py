@@ -58,12 +58,11 @@ def banner():
     os.system('clear')
     sys.stdout.write(WHITE + '''
     By: @lahcen90
-    Donate Paypal: lahcen90neo@gmail.com
+    https://github.com/lahcen90
     [-                                              -]''' + RED + '''
-
-
        | | | |           | | |      | | | | |      |  |  |         | | |             
-     |                     |            |          |        |        |           
+     |                     |            |          |        |        |
+     |                     |            |          |         |       |            
      |       | | |         |            |          |         |       |
      |           |         |            |          |       |         |
        | | | | |         | | |          |          |  |  |         | | |
@@ -80,7 +79,6 @@ def banner():
 def menu():
     print('''
     -Usage- Select an option:
-
      {0}[{1}1{0}]{1}     Perform a search of emails from specified file.
      {0}[{1}2{0}]{1}     Single search for specified email.
      {0}[{1}E{0}]{1}     Exit.
